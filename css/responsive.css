@@ -8,7 +8,7 @@
         padding: 0 19px;
     }
     .hovereffect h2 {
-        margin-top: 1vh;
+        margin-top: 12vh;
         position: relative;
         font-size: medium;
 
@@ -43,7 +43,7 @@
         margin-top: 30px;
     }
     .hovereffect h2 {
-        margin-top: 1vh;
+        margin-top: 11vh;
         position: relative;
         font-size: medium;
 
@@ -114,7 +114,7 @@
         display: none;
     }
     .hovereffect h2 {
-        margin-top: 1vh;
+        margin-top: 12vh;
         position: relative;
         font-size: medium;
       }
@@ -233,7 +233,7 @@
         min-height: 500px;
     }
     .hovereffect h2 {
-        margin-top: 2vh;
+        margin-top: 9vh;
         position: relative;
         font-size: large;
       }
@@ -372,7 +372,7 @@
             background-size: 150% 80%;
     }
     .hovereffect h2 {
-        margin-top: 1vh;
+        margin-top: 8vh;
         position: relative;
         font-size: medium;
       }
