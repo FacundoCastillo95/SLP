@@ -543,7 +543,9 @@ ul.btn li:last-child {
 
 
 /** hottest section **/
-
+.genetica{
+     font-size: xx-large;
+}
 .hottest {
      background: #0add86;
      padding: 90px 0 90px 0;
@@ -579,9 +581,9 @@ ul.btn li:last-child {
 
 .hottest .hottest_box p {
      color: #fff;
-     font-size: 190%;
+     font-size: 160%;
      line-height: 35px;
-     font-weight: 400;
+     font-weight: 500;
      font-family: 'Pilcrow', sans-serif;
 }
 .hottest1 {
