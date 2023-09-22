@@ -125,6 +125,13 @@
       ul.location_icon li {
         font-size: 10px;
    }
+   .hottest .hottest_box p {
+    font-size: 100%;
+    line-height: 20px;
+}
+.genetica {
+    font-size: x-large;
+}
 }
 
 @media (min-width: 575px) and (max-width: 767px) {
@@ -396,6 +403,10 @@
       .card{
         margin-bottom: 16%;
       }
+      .cardimg {
+        max-height: 50vh;
+        min-width: 40vh;
+    }
     }
 
 
