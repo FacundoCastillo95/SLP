@@ -144,7 +144,7 @@ ol {
 .lista{
      list-style-image: url("../images/logo_list.png");
      font-size: 200%;
-     color: #000;
+     color: #ffffff;
      font-family: 'Pilcrow', sans-serif;
      font-weight: 800;
 }
@@ -784,6 +784,9 @@ ul.btn li:last-child {
 
 
 /** end product  section **/
+.textoprote{
+color:black;
+}
 
 .hovereffect {
      float: left;
